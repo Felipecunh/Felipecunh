@@ -40,7 +40,7 @@ Sou **Desenvolvedor Full Stack Júnior**, graduado em Engenharia da Computação
 - Criar e consumir **endpoints backend**
 - Modelar **bancos de dados relacionais**
 - Integrar **front-end com back-end**
-- Trabalhar com **autenticação básica**
+- Trabalhar com **autenticação (JWT)**
 - Versionar código utilizando **Git**
 - Documentar projetos de forma clara e objetiva
 - Resolver problemas técnicos de forma estruturada
@@ -50,18 +50,48 @@ Sou **Desenvolvedor Full Stack Júnior**, graduado em Engenharia da Computação
 
 ## 🚀 Projetos em destaque
 
-- **API REST em .NET (C#)**  
-  Desenvolvimento de uma API REST utilizando **C# e .NET**, com foco em organização do projeto, boas práticas e aprendizado prático de back-end.
+### 🔹 DevTrack — Sistema de Gerenciamento de Projetos e Tarefas
+Sistema web desenvolvido como **projeto de portfólio**, com foco em **boas práticas de back-end e integração full stack**.
 
-- **Vigilância Amazônica**  
-  Plataforma web para **monitoramento e visualização de dados socioambientais**, desenvolvida com **arquitetura full stack**.  
-  Integra **front-end em React**, **back-end em Python (Django)**, **APIs REST**, **PostgreSQL** e **dashboards interativos**, com foco em organização da informação, análise de dados e uso institucional.
+**Backend**
+- API REST em **.NET (C#)** com **ASP.NET Core**
+- Autenticação stateless com **JWT**
+- CRUD completo de projetos e tarefas
+- Persistência com **Entity Framework Core**
+- Documentação interativa via **Swagger**
 
-- **Porta Inteligente para Pets (TCC)**  
-  Sistema de controle automático de acesso para pets baseado em **visão computacional**, utilizando **Python** e **YOLO (Ultralytics)**.  
-  Inclui preparação de dataset, treino e validação do modelo, inferência em tempo real, **dashboard web** e **logs auditáveis**, com foco em desempenho e privacidade.
+**Frontend**
+- Interface desenvolvida em **React + JavaScript**
+- Consumo de API REST com **Axios**
+- Rotas protegidas e controle de autenticação
+- Gerenciamento de estado e integração completa com o backend
 
-*(Outros projetos em desenvolvimento contínuo)*
+> Projeto focado em organização de código, segurança, padrões REST e aprendizado prático de arquitetura web.
+
+---
+
+### 🔹 Vigilância Amazônica
+Plataforma web para **monitoramento e visualização de dados socioambientais**, desenvolvida com **arquitetura full stack**.
+
+- **Front-end em React**
+- **Back-end em Python (Django)**
+- **APIs REST**
+- **PostgreSQL**
+- Dashboards e visualizações de dados
+- Foco em organização da informação, análise de dados e uso institucional
+
+🔗 https://vigilancia-amazonica.vercel.app/
+
+---
+
+### 🔹 Porta Inteligente para Pets (TCC)
+Sistema de controle automático de acesso para pets baseado em **visão computacional**.
+
+- **Python** + **YOLO (Ultralytics)**
+- Preparação de dataset, treino e validação do modelo
+- Inferência em tempo real
+- Dashboard web e logs auditáveis
+- Foco em desempenho, privacidade e automação inteligente
 
 ---
 
