@@ -1,9 +1,9 @@
 # Olá 👋, eu sou Felipe Rezende
 
-🚀 **Desenvolvedor Full Stack Júnior | Graduado em Engenharia da Computação**  
+🚀 **Desenvolvedor Full Stack | Graduado em Engenharia da Computação**  
 📍 Manaus - AM, Brasil
 
-Sou **Desenvolvedor Full Stack Júnior**, graduado em Engenharia da Computação, com foco em **back-end**, **APIs REST**, **dados** e **integração entre sistemas**.
+Sou **Desenvolvedor Full Stack**, graduado em Engenharia da Computação, com foco em **back-end**, **APIs REST**, **dados** e **integração entre sistemas**.
 
 ---
 
